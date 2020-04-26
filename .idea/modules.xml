@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3.3-android-local-storage-list-views.iml" filepath="$PROJECT_DIR$/3.3-android-local-storage-list-views.iml" group="3.3-android-local-storage-list-views" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="3.3-android-local-storage-list-views/app" />
+    </modules>
+  </component>
+</project>
